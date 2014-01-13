@@ -1,0 +1,24 @@
+{
+  "name": "octo",
+  "version": "0.0.0",
+  "description": "octo",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imhx/octo.git"
+  },
+  "keywords": [
+    "octo"
+  ],
+  "author": "huangxin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imhx/octo/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2"
+  }
+}
