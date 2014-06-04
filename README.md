@@ -17,4 +17,6 @@ octo
 11. dustjs@
 12. documentup@
 13. easyXDM*
-14. 
+14. signals.js*
+15. hasher
+16. mixitup*
